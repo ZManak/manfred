@@ -98,6 +98,12 @@
       },
       {
         "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
