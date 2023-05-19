@@ -11,35 +11,49 @@
       "title": "Junior Full Stack / MERN Developer",
       "description": "Graduado en el Bootcamp Full Stack Web Developer de The Bridge (500 horas)\nProyectos en HTML, CSS, Javascript, Node, Express, React, bases de datos SQL y noSQL, Docker, Kubernetes...\nGit Workflow y POO.",
       "avatar": {
-        "alt": "IMG_20200928_185428.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/18/a7e0bb99-0046-494b-a914-76d02d4eb966_img_20200928_185428.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/18/a7e0bb99-0046-494b-a914-76d02d4eb966_img_20200928_185428.jpg",
+        "alt": "IMG_20200928_185428.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/ZManak"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/javierfuertesgimeno/"
-      }
-    ]
+    }
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "Inglés",
         "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Firebase",
@@ -54,7 +68,37 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -69,60 +113,65 @@
           "name": "React",
           "type": "technology"
         }
-      },
+      }
+    ],
+    "studies": [
       {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mongoose",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Full Stack Web Developer",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "The Bridge",
+          "description": "Bootcamp (500 h) "
+        },
+        "finishDate": "2023-03-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
@@ -130,8 +179,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/javierfuertesgimeno/"
+          "URL": "https://www.linkedin.com/in/javierfuertesgimeno/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/ZManak",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "javiefe.dev@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "618288366",
+          "countryCode": "+34"
         }
       ]
     },
@@ -199,5 +261,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Busco un empleo en el que se valoren no los años de experiencia, sino la dedicación, el esfuerzo y la evolución demostrables a través de la práctica y los resultados. Un empleo en el que crecer constantemente en conocimientos y habilidades sobre las últimas tecnologías, cultura de trabajo en equipo. Indiferente si es presencial, teletrabajo o presencial, sí que valoraría que hubiese contacto estrecho entre los miembros del equipo. En un empleo ideal, mi función sería la de MERN developer, pero estoy abierto a muchas otras tecnologías."
   }
 }
